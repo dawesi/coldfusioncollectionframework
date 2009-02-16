@@ -1,14 +1,10 @@
-table.screen{
+table{
 	border:1px solid #333;
 	width:100%;
 }
 
-table.screen th{
+table th{
 	background:#ddd;
-}
-
-table.screen tr{
-	
 }
 
 div{

@@ -14,7 +14,7 @@ list = createObject( 'component', 'ListCollection' ).init();
         
     <h1>ColdFusion Collection Framework - 1.0 - alpha 1</h1>
         
-	<table class="screen">
+	<table>
         
 	    <tr>
 	        <th>Type</th>
