@@ -1,0 +1,18 @@
+table.screen{
+	border:1px solid #333;
+	width:100%;
+}
+
+table.screen th{
+	background:#ddd;
+}
+
+table.screen tr{
+	
+}
+
+div{
+	border:1px solid #333;
+	padding:10px;
+	margin-bottom:10px;
+}
