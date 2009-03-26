@@ -3,7 +3,7 @@
 	Purpose: Manage list collection. Required Coldfusion 8
 	License: http://www.gnu.org/licenses/gpl-3.0.html
 	Copyright: (c) 2003 - 2009 - Cristian Costantini
-	Version: 1.0 alpha 1
+	Version: 1.0 alpha 2
 	--->
 
 <cfcomponent extends="AbsCollection" output="false">

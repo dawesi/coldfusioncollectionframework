@@ -13,7 +13,7 @@ list = createObject( 'component', 'ListCollection' ).init();
     <body>
         
     <h1>ColdFusion Collection Framework - 1.0 - alpha 1</h1>
-        
+    <cfdump var="#expandPath('.')#">
 	<table>
         
 	    <tr>
@@ -50,8 +50,11 @@ list = createObject( 'component', 'ListCollection' ).init();
 	map.set('b','Fabio');
 	map.set('c','Federico');
 	map.set('d','Massimo');
+	
+	
     </cfscript>
     
+    <cfdump var="#map.keySet()#">
     </div>
 
     <div>
